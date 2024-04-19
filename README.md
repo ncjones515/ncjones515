@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Nick! <br/><a href="https://github.com/ncjones515">Aspiring Python Developer</a> and <a href="https://www.linkedin.com/in/nicholas-jones-588b10282/">It Support Technician</a>
 
-<!--
-**ncjones515/ncjones515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Python Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Games</b>
+  - [Alien Invasion](https://github.com/ncjones515/Alien-Invasion)
+- <b>Miscellaneous Projects</b>
+  - [Restaurant Spender](https://github.com/ncjones515/Restaurant-Spender)
+- <b>Web Apps</b> <b><i>(Coming soon)</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Certifications:</h2>
+
+- <b>Comptia A+</b>
+- <b>Comptia Network+</b> <b><i>(in progress)</b></i>
+
+
+
+
