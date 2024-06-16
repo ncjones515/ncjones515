@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick! <br/><a href="https://github.com/ncjones515">Aspiring Python Developer</a> and <a href="https://www.linkedin.com/in/nicholas-jones-588b10282/">It Support Technician</a>
+<h1>Hi, I'm Nick! <br/><a href="https://github.com/ncjones515">Aspiring Python Developer</a> and <a href="https://www.linkedin.com/in/nicholas-jones-588b10282/">IT Support Technician</a>
 
 <h2>👨‍💻 Python Projects:</h2>
 
