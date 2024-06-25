@@ -13,7 +13,7 @@
 
 - <b>Comptia A+</b>
 - <b>Comptia Network+</b>
-- <b>Google Cybersecurity Certificate</b>
+- <b>Google Cybersecurity Certificate</b> <b><i> (in progress)</b></i>
 
 
 
