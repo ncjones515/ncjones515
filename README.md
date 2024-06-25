@@ -12,7 +12,8 @@
 <h2>Certifications:</h2>
 
 - <b>Comptia A+</b>
-- <b>Comptia Network+</b> <b><i>(in progress)</b></i>
+- <b>Comptia Network+</b>
+- <b>Google Cybersecurity Certificate</b>
 
 
 
