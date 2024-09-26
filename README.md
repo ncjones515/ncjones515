@@ -4,6 +4,7 @@
 
 - <b>Games</b>
   - [Alien Invasion](https://github.com/ncjones515/Alien-Invasion)
+  - [RPG game] (https://github.com/ncjones515/RPG_game) <b><i>Work in progress</i></b>
 - <b>Miscellaneous Projects</b>
   - [Restaurant Spender](https://github.com/ncjones515/Restaurant-Spender)
 - <b>Web Apps</b> <b><i>(Coming soon)</b></i>
