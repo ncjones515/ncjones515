@@ -16,6 +16,7 @@
 - <b>CompTIA Network+</b>
 - <b>Google Cybersecurity Certificate</b>
 - <b>CompTIA Security +</b>
+- <b>Cisco Certified Networking Associate</b>
 
 
 
